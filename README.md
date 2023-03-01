@@ -1,3 +1,5 @@
 # LautrecSec-Blog
-Blog project to display all the things that interest me:
-CTFs, Bug Bounty, Cyber News etc.. :)
+## Blog project to display all the things that interest me <br>
+CTFs<br>
+Bug Bounty<br> 
+Cyber News etc.. :)<br>
