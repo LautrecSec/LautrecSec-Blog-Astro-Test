@@ -1,5 +1,6 @@
 # LautrecSec-Blog-Astro-Test
-## Blog project to display all the things that interest me <br>
+## Test Blog project to display all the things that interest me <br>
+<br> deployed through astro CI/CD using Netlify
 CTFs<br>
 Bug Bounty<br> 
 Cyber News etc.. :)<br>
