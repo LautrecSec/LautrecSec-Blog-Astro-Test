@@ -4,3 +4,7 @@
 CTFs<br>
 Bug Bounty<br> 
 Cyber News etc.. :)<br>
+<br>
+To-Do: <br>
+- About Me Page <br>
+- Exam Writeups <br>
